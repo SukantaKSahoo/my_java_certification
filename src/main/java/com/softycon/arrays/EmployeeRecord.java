@@ -1,6 +1,7 @@
 package com.softycon.arrays;
 
 public class EmployeeRecord {
+	// Author : Softycon
     public static void main(String[] args) {
 
         double[] salary = {23500.0, 25080.0, 28760.0, 22340.0, 19890.0};
